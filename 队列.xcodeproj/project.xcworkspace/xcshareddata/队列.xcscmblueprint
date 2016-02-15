@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0B08222104338A27A2399E9773A11A75AF8CC510",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0B08222104338A27A2399E9773A11A75AF8CC510" : 0,
+    "5E7725335A9A4D581ECEB7672ECD14A3AC95E91B" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FAAF8AEE-42E8-49E0-BCBD-72B304DD89A3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0B08222104338A27A2399E9773A11A75AF8CC510" : "%E9%98%9F%E5%88%97.xcodeproj\/",
+    "5E7725335A9A4D581ECEB7672ECD14A3AC95E91B" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : ".",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : ".",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Fpeak\/GCD.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0B08222104338A27A2399E9773A11A75AF8CC510"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Fpeak\/Queue.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5E7725335A9A4D581ECEB7672ECD14A3AC95E91B"
+    }
+  ]
+}
